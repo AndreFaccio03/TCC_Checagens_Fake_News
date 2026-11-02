@@ -218,3 +218,35 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Chaves de API e variáveis de ambiente (LLMs)
+.env
+.env.*
+*.key
+secrets.json
+
+# Dados (podem ser pesados ou conter informações sensíveis)
+data/
+*.csv
+*.xlsx
+*.parquet
+*.json.gz
+
+# Modelos treinados e embeddings
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.bin
+*.safetensors
+
+# Cache de bibliotecas de NLP / Hugging Face
+.cache/
+huggingface/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
