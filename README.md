@@ -35,3 +35,9 @@ Os arquivos devem ser executados na seguinte ordem:
 - Support Vector Machine (SVM)
 - Random Forest
 - Multilayer Perceptron (MLP)
+
+## Dados
+
+O conjunto de dados final utilizado no projeto, para treinamento dos classificadores, está disponível no Google Drive:
+
+- [base_final_com_vetores.parquet](https://drive.google.com/file/d/1cOpedo26vS67ltKQ-GJk8bi03DR8IEkr/view?usp=sharing)
